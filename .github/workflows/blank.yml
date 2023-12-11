@@ -26,8 +26,8 @@ jobs:
         uses: actions/cache@v3.3.2
         with:
           path: |
-            ~/.npm
-            path/to/your/cache-directory
+            /home/runner/.npm
+            /path/to/your/cache-directory
           key: ${{ runner.os }}-node-${{ hashFiles('**/*.lock') }}
           restore-keys: |
             ${{ runner.os }}-node-
