@@ -43,6 +43,4 @@
   </article>
     <hr>
     <br>
-    <br>
-    <br>
     </br>
