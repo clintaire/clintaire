@@ -60,5 +60,3 @@
     </p>
   </article>
     <hr>
-    <br>
-    </br>
