@@ -41,5 +41,24 @@
     </p>
   </article>
     <hr>
+     <article>
+    <a href="https://open.substack.com/pub/clintaire/p/the-impact-of-artificial-intelligence?r=1no9vc&utm_campaign=post&utm_medium=web"
+      title="The Impact of Artificial Intelligence on Healthcare">
+      <img
+        src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F211d578e-8fbf-4ddb-bdc1-8c2e65f26be8.heic"
+        alt="The Impact of Artificial Intelligence on Healthcare" width="190px" align="left" />
+    </a>
+    <h3>
+      <a href="https://open.substack.com/pub/clintaire/p/the-impact-of-artificial-intelligence?r=1no9vc&utm_campaign=post&utm_medium=web"
+        title="The Impact of Artificial Intelligence on Healthcare">The Impact of Artificial Intelligence on Healthcare</a>
+    </h3>
+    <p>
+      The convergence of artificial intelligence and healthcare has ushered in a 
+      new era of medical innovation, offering unparalleled possibilities for diagnosis 
+      and treatment. Artificial intelligence, or AI, is transforming the healthcare 
+      landscape, with its potential to revolutionize patient care and outcomes.
+    </p>
+  </article>
+    <hr>
     <br>
     </br>
