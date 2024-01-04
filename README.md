@@ -55,7 +55,7 @@
     <p>
       The convergence of artificial intelligence and healthcare has ushered in a 
       new era of medical innovation, offering unparalleled possibilities for diagnosis 
-      and treatment. Artificial intelligence, or AI, is transforming the healthcare 
+      and treatment. Artificial intelligence, or AI, is transforming the Healthcare 
       landscape, with its potential to revolutionize patient care and outcomes.
     </p>
   </article>
