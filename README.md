@@ -5,7 +5,7 @@ This is Clint Aire: A Developer, and Design enthusiast.
 
 I am always hungry for new knowledge and strive to explore the latest trends and tools that help me create innovative solutions
 
-For the latest news follow me in [🐦Twitter](https://twitter.com/clintaire) and [🔵Linkedin](https://www.linkedin.com/in/clintaire)
+For the latest news follow me in [🐦Twitter](https://twitter.com/clintaire) <span>&#8623;</span> [🔵Linkedin](https://www.linkedin.com/in/clintaire)
 
 <hr>
 <h4><span>&#10064;</span> RECENT BLOG POST</h4>
