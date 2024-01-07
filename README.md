@@ -29,27 +29,6 @@ For the latest news follow me in [🐦Twitter](https://twitter.com/clintaire) <s
       ourselves up for success.
     </p>
   </article>
-  <hr>
-  <article>
-    <a href="https://open.substack.com/pub/clintaire/p/echoes-of-solitude-d60?r=1no9vc&utm_campaign=post&utm_medium=web"
-      title="Echoes of Solitude: Delving Deeper into Loneliness">
-      <img
-        src="https://images.unsplash.com/photo-1682687219640-b3f11f4b7234?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw1MXx8bmVvbXxlbnwwfHx8fDE2OTg3Mzg4MDZ8MA&ixlib=rb-4.0.3&q=80&w=1080"
-        alt="Echoes of Solitude: Delving Deeper into Loneliness" width="190px" align="left" />
-    </a>
-    <h3>
-      <a href="https://open.substack.com/pub/clintaire/p/echoes-of-solitude-d60?r=1no9vc&utm_campaign=post&utm_medium=web"
-        title="Echoes of Solitude: Delving Deeper into Loneliness">Echoes of Solitude: Delving Deeper into
-        Loneliness</a>
-    </h3>
-    <p>
-      Loneliness is not merely a passing emotion; it's a state of being that can
-      deeply affect our mental health. For Sarah, as for countless others, this
-      emotional terrain can become treacherous. The absence of meaningful human
-      connection can lead to a sense of despair, isolation, and a lack of
-      purpose.
-    </p>
-  </article>
     <hr>
      <article>
     <a href="https://open.substack.com/pub/clintaire/p/the-impact-of-artificial-intelligence?r=1no9vc&utm_campaign=post&utm_medium=web"
