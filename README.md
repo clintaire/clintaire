@@ -3,9 +3,7 @@
 
 This is Clint Air<span>&#233;</span>: A Developer, and Design enthusiast.
 
-I am always hungry for new knowledge and strive to explore the latest trends and tools that help me create innovative solutions
-
-For the latest news follow me on [🐦Twitter](https://twitter.com/clintaire) <span>&#8623;</span> [🔵Linkedin](https://www.linkedin.com/in/clintaire)
+I am always hungry for new knowledge and strive to explore the latest trends and tools that help me create innovative solutions.
 
 <hr>
 <h4><span>&#10064;</span> RECENT BLOG POST</h4>
@@ -49,3 +47,27 @@ For the latest news follow me on [🐦Twitter](https://twitter.com/clintaire) <s
     </p>
   </article>
     <hr>
+
+[![Twitter][10.1]][1]
+[![Linkedin][10.2]][2]
+[![Codepen][10.3]][3]
+[![StackOverflow][10.4]][4]
+[![Medium][10.5]][5]
+
+<!-- ![](https://komarev.com/ghpvc/?username=clintaire&color=green) -->
+
+
+<!-- Links -->
+[1]: https://twitter.com/clintaire/
+[2]: https://www.linkedin.com/in/clintaire/
+[3]: https://codepen.io/clintaire
+[4]: https://stackoverflow.com/users/19771179
+[5]: https://clintaire.medium.com/
+[7]: https://clintaire.io/
+
+[10.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white
+[10.2]: https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white
+[10.3]: https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white
+[10.4]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white
+[10.5]: https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white
+[10.6]: https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white
