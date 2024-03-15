@@ -1,26 +1,5 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=clintaire&count_private=true&show_icons=true&theme=gruvbox" width="380">
-<hr>
 <h4><span>&#10064;</span> RECENT BLOG POST</h4>
-<hr>
-  <article>
-    <a href="https://open.substack.com/pub/clintaire/p/taking-control?r=1no9vc&utm_campaign=post&utm_medium=web"
-      title="Taking Control: Are You Ready for the Next Year?">
-      <img
-        src="https://substackcdn.com/image/fetch/w_400,h_264,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F536e8451-40e0-47c2-81dc-444afe842693.heic"
-        alt="Taking Control: Are You Ready for the Next Year?" width="190px" align="left" />
-    </a>
-    <h3>
-      <a href="https://open.substack.com/pub/clintaire/p/taking-control?r=1no9vc&utm_campaign=post&utm_medium=web"
-        title="Taking Control: Are You Ready for the Next Year?">Taking Control: Are You Ready for the Next Year?</a>
-    </h3>
-    <p>
-      Hey folks, it's Clint Airé here, and today we're going to tackle a topic
-      that's near and dear to all of us: getting our lives in order and
-      gearing up for a fantastic new year. Life can throw curveballs, but with
-      a little planning and determination, we can take control and set
-      ourselves up for success.
-    </p>
-  </article>
     <hr>
      <article>
     <a href="https://open.substack.com/pub/clintaire/p/the-impact-of-artificial-intelligence?r=1no9vc&utm_campaign=post&utm_medium=web"
