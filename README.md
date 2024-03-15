@@ -1,10 +1,4 @@
-# Hi there! 👋
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=clintaire&count_private=true&show_icons=true&theme=gruvbox" width="380">
-
-I'm Clint Air<span>&#233;</span>: A Developer, and Design enthusiast.
-
-I enjoy exploring new things in the field of science and psychology. Understanding how people think intrigues me, and I often wonder if I can incorporate that knowledge into my research.
-
 <hr>
 <h4><span>&#10064;</span> RECENT BLOG POST</h4>
 <hr>
