@@ -2,7 +2,7 @@
 [![Medium](https://img.shields.io/static/v1?label=&message=medium&color=12100E&logo=medium&logoColor=white&style=flat-square)](https://medium.com/@clintaire)
 [![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=000000&logo=Portfolio&logoColor=white&style=flat-square)](https://clintaire.io)
 
-<a href="https://github.com/clintaire/Task/blob/main/src/Images/EGY2.jpg"><img src="https://github.com/clintaire/Task/blob/main/src/Images/CUP.png" alt="CuP" height="210px" align="right"></a>
+<img src="https://github.com/clintaire/Task/blob/main/src/Images/CUP.png" alt="CuP" height="210px" align="right"></a>
 
 <dl>
   
